@@ -1,6 +1,6 @@
 {
   "short_name": "Lottery Simulator",
-  "name": "Austrian Lottery Simulator",
+  "name": "Example Lottery Simulator",
   "icons": [
     {
       "src": "favicon.ico",
