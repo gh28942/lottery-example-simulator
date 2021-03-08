@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lottery-example-simulator/static/css/main.c2ba06ea.chunk.css",
-    "main.js": "/lottery-example-simulator/static/js/main.48feac30.chunk.js",
-    "main.js.map": "/lottery-example-simulator/static/js/main.48feac30.chunk.js.map",
+    "main.js": "/lottery-example-simulator/static/js/main.d19dfa9b.chunk.js",
+    "main.js.map": "/lottery-example-simulator/static/js/main.d19dfa9b.chunk.js.map",
     "runtime-main.js": "/lottery-example-simulator/static/js/runtime-main.d36f5559.js",
     "runtime-main.js.map": "/lottery-example-simulator/static/js/runtime-main.d36f5559.js.map",
     "static/css/2.bac56067.chunk.css": "/lottery-example-simulator/static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js": "/lottery-example-simulator/static/js/2.effe3d63.chunk.js",
     "static/js/2.effe3d63.chunk.js.map": "/lottery-example-simulator/static/js/2.effe3d63.chunk.js.map",
     "index.html": "/lottery-example-simulator/index.html",
-    "precache-manifest.14ac28b074688f83c8c80fd24494c569.js": "/lottery-example-simulator/precache-manifest.14ac28b074688f83c8c80fd24494c569.js",
+    "precache-manifest.4db5a0abe3212071281461b63877851e.js": "/lottery-example-simulator/precache-manifest.4db5a0abe3212071281461b63877851e.js",
     "service-worker.js": "/lottery-example-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/lottery-example-simulator/static/css/2.bac56067.chunk.css.map",
     "static/css/main.c2ba06ea.chunk.css.map": "/lottery-example-simulator/static/css/main.c2ba06ea.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js",
     "static/css/main.c2ba06ea.chunk.css",
-    "static/js/main.48feac30.chunk.js"
+    "static/js/main.d19dfa9b.chunk.js"
   ]
 }
